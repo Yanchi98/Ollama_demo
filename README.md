@@ -8,3 +8,4 @@ Ollama🦙 is an open-source tool for running large language models locally on y
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/e30be7fe-87e7-4efc-bfae-5e06ea7fafa2">
 
+![Uploading image.png…]()
